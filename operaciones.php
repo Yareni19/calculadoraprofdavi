@@ -1,4 +1,4 @@
 <?php
     echo "Hola Mundo ^o^"
-    echo "_Yareni Ramos_"
+    echo "Yareni Ramos"
 ?>
