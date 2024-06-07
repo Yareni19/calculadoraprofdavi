@@ -26,7 +26,7 @@
 
     $numero2multi = solicitarNumero("Introduce el segundo número: ");
 
-    $multi = $numero1multi + $numero2multi;
+    $multi = $numero1multi * $numero2multi;
 
     echo "La suma de $numero1multi y $numero2multi es: $multi\n";
 ?>
