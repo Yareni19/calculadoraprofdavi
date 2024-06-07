@@ -20,4 +20,13 @@
     $suma = $numero1 + $numero2;
 
     echo "La suma de $numero1 y $numero2 es: $suma\n";
+
+    //Aqui inicia la operacion de multiplicacion
+    $numero1multi = solicitarNumero("Introduce el primer número: ");
+
+    $numero2multi = solicitarNumero("Introduce el segundo número: ");
+
+    $multi = $numero1multi + $numero2multi;
+
+    echo "La suma de $numero1multi y $numero2multi es: $multi\n";
 ?>
